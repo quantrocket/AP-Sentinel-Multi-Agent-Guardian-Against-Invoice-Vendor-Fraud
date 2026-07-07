@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29729062/README.md)
 # AP Sentinel — Multi-Agent Accounts-Payable Fraud & Vendor-Risk Guardian
 
 **Track:** Agents for Business
